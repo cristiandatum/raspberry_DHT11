@@ -10,3 +10,5 @@ Step 2: Set up Azure environment resources
 - IoT Hub
 - Functions
 - Digital Twin 
+
+Step 3: Create a Digital Twin
